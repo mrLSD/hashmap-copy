@@ -1,0 +1,7 @@
+[package]
+name = "hashmap-copy"
+version = "0.1.0"
+authors = ["Evgeny Ukhanov <mrlsd@ya.ru>"]
+
+[dependencies]
+time = "*"
